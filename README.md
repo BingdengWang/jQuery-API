@@ -1,4 +1,4 @@
-# jQueryPractice
+# jQuery-API
 
 http://pokeapi.co/api/v2/generation/1
 
